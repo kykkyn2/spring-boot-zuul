@@ -1,6 +1,6 @@
 zuul:
   routes:
-    books:
+    api:
       url: http://localhost:8090
 ribbon:
   eureka:
